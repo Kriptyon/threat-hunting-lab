@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+*.swp
+
+# Docker
+docker/volumes/
+
+# Secrets / credentials
+*.env
+.env
+secrets/
+
+# Logs
+*.log
